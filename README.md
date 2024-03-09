@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Short term Weather-based Load Forecasting**
 
-- 🌱 I’m currently learning **FastAPI**
+- 🌱 I’m activately involved in **Data-focused projects** 
 
 - 📫 How to reach me **sbpatil2002@gmail.com**
 
