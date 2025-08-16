@@ -14,7 +14,7 @@
 - 🛠️ Past work: Data Engineering at **Piramal Pharma**, Analytics at **Tata Power** & **IMD**  
 - 🎓 **B.Tech IT (Data Science Honors)** — CGPA: 9.67  
 - 💡 Love solving problems where **data + backend + cloud** intersect  
-- 🎨 Outside tech: I **draw, paint, and write** ✍️  
+- 🎨 Outside tech: I **draw and paint** ✍️  
 
 ---
 
