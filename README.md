@@ -46,14 +46,6 @@
 
 ---
 
-### 📊 GitHub Snapshot  
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=SrushtiPatil1&show_icons=true&hide=prs,issues&count_private=true&theme=default" height="150"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrushtiPatil1&theme=default" height="150"/>  
-</p>  
-
----
-
 ### 📫 Connect With Me  
 <p align="center">  
   <a href="https://linkedin.com/in/srushtipatil1"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40"/></a>  
