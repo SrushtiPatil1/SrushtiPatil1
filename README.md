@@ -40,9 +40,9 @@
 ---
 
 ### 📂 Featured Projects  
-- 📊 [**Forecasting Weather Patterns (IMD)**](#) – ML models for weather prediction using historical datasets  
-- 💻 [**Banking APIs with Spring Boot**](#) – Scalable REST APIs for a BFSI client at TCS  
-- ☁️ [**Data Migration to Snowflake**](#) – Automated analytics workflows at Piramal Pharma  
+- 📊 **Forecasting Weather Patterns (IMD)** – ML models for weather prediction using historical datasets  
+- 💻 **Banking APIs with Spring Boot** – Scalable REST APIs for a BFSI client at TCS  
+- ☁️ **Data Migration to Snowflake** – Automated analytics workflows at Piramal Pharma  
 
 ---
 
