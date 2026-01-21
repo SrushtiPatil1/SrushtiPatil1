@@ -11,7 +11,7 @@
 
 ### 🚀 About Me  
 - 🏢 Currently: **Backend Developer at Tata Consultancy Services**  
-- 🛠️ Past work: Data Engineering at **Piramal Pharma**, Analytics at **Tata Power** & **IMD**  
+- 🛠️ Past work: Data Engineering at **Piramal Pharma**, Machine Learning and Analytics at **Tata Power** & **IMD**  
 - 🎓 **B.Tech IT (Data Science Honors)** — CGPA: 9.67  
 - 💡 Love solving problems where **data + backend + cloud** intersect  
 - 🎨 Outside tech: I **draw and paint** ✍️  
