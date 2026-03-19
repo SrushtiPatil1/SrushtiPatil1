@@ -55,8 +55,7 @@
 
 ---
 
-<p align="center"><i>“The more that you read, the more things you will know.  
-The more that you learn, the more places you'll go.” – Dr. Seuss</i></p>  
+<p align="center"><i>Your potential is endless.</i></p>  
 
 ---
 
